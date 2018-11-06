@@ -2,6 +2,8 @@
  title:  "Registration now open for BCA Spring Meeting 2019"
  date:   2018-09-10 12:00:00 +0100
  categories: news spring-meeting
+ header:
+  image: /assets/images/spring-meeting-2019/BCA2019-logo.jpg 
 ---
 
 Next year's BCA Spring Meeting will be held at the Jubilee Campus, University of Nottingham from Monday 15th - Thursday 18th March, 2019. 

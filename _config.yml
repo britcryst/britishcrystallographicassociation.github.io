@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Crystallography is a vital part of modern research into the structure and
   properties of materials ranging across the scientific fields of Chemistry,
   Biology, Physics, Materials science and Engineering.
-baseurl: "/test-site" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: britcryst
 github_username:  BritishCrystallographicAssociation

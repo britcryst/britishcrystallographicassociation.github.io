@@ -39,8 +39,9 @@ We are trying to collect their names together here, please let us know of mistak
 -    Judith A. K. Howard
 -    Brian J. Isherwood
 -    Olga Kennard
--    Aaron Klug
 -    Geoff S. D. King
+-    Trevor J. King
+-    Aaron Klug
 -    J. Ian Langford
 -    J. A. Leake
 -    C. H. McKie
@@ -59,6 +60,7 @@ We are trying to collect their names together here, please let us know of mistak
 -    G. W. Smith
 -    Andrzej C. Skapsi
 -    Steve B. D. Spratt
+-    Paul Humphrey Spriggs
 -    Charles A. Taylor
 -    D. P. Thompson
 -    Mary Truter
@@ -71,4 +73,4 @@ We are trying to collect their names together here, please let us know of mistak
 -    M. Michael Woolfson
 -    Jack Zussman
 
-There are two other names in the Minute book whose handwriting is difficult to decipher, they may be P.H.Spragg and J.Tilling.
+Thanks to Jeremy Cockcroft for assistance in interpreting some of the signatures (2019).
